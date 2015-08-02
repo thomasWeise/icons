@@ -60,7 +60,7 @@ The following icons are used as placeholders for files:
 <table>
 <tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.png" style="width:1.2em;height:1.2em" alt="file"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/icons/master/files/file/file.svg" style="width:1.2em;height:1.2em" alt="file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.svg" style="width:1.2em;height:1.2em" alt="file"/></td>
   <td>file</td>
 </tr><tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.png" style="width:1.2em;height:1.2em" alt="folder"/></td>
