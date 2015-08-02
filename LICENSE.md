@@ -158,7 +158,7 @@ c. No term or condition of this Public License will be waived and no failure to 
 d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
 ```
-Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses. 
+Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 
 Creative Commons may be contacted at [creativecommons.org](http://creativecommons.org/).
 ```
@@ -169,19 +169,19 @@ If you have any questions about *the project*, want to contribute
 to *the project*, want to discuss licensing terms, or have any
 problem with *the project* itself and/or its licensing terms,
 please contact the project main author via
-[email](mailto:tweise@ustc.edu.cn) (see point "Contact").  
+[email](mailto:tweise@ustc.edu.cn) (see point "Contact").
 
 ## Contact
 
 The main author, copyright holder, and corresponding author of
 *the project* is Dr. Thomas Weise.
 
-**Dr. Thomas Weise**  
-Nature Inspired Computation and Applications Laboratory (NICAL)  
-USTC-Birmingham Joint Research Institute in Intelligent Computation and Its Applications (UBRI)  
-School of Computer Science and Technology (SCST)  
-University of Science and Technology of China (USTC)  
-West Campus, Science and Technology Building, West Wing, Room 601  
-Huangshan Road/Feixi Road, Hefei 230027, Anhui, China  
-Web:    [http://www.it-weise.de/](http://www.it-weise.de/)  
+**Dr. Thomas Weise**
+Nature Inspired Computation and Applications Laboratory (NICAL)
+USTC-Birmingham Joint Research Institute in Intelligent Computation and Its Applications (UBRI)
+School of Computer Science and Technology (SCST)
+University of Science and Technology of China (USTC)
+West Campus, Science and Technology Building, West Wing, Room 601
+Huangshan Road/Feixi Road, Hefei 230027, Anhui, China
+Web:    [http://www.it-weise.de/](http://www.it-weise.de/)
 Email:  [tweise@gmx.de](mailto:tweise@gmx.de), [tweise@ustc.edu.cn](mailto:tweise@ustc.edu.cn)
