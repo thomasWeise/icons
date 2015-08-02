@@ -6,10 +6,11 @@ This work is licensed under the <a rel="license" href="http://creativecommons.or
 
 All icons are `10mm` high and wide, but it should be possible to scale them to smaller units (like `1em`) or larger units. The icons are available as `svg` vector graphics. Since some browser do not support `svg`s (or support them in a very odd way), I also add `png` versions of the icons, which then are `32` pixels high and wide.
 
-## Log Icons
+## log icons
 
 The following icons are used for showing logging information:
 <table>
+<tr><th>`png`</th><th>`svg`</th><th>what</th></tr>
 <tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logAll/logAll.png" style="width:1.2em;height:1.2em" alt="all"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logAll/logAll.svg" style="width:1.2em;height:1.2em" alt="all"/></td>
@@ -53,11 +54,12 @@ The following icons are used for showing logging information:
 </tr>
 </table>
 
-## File Icons
+## file icons
 
-The following icons are used as placeholders for files:
+The following icons are used as place holders for files and folders:
 
 <table>
+<tr><th>`png`</th><th>`svg`</th><th>what</th></tr>
 <tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.png" style="width:1.2em;height:1.2em" alt="file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.svg" style="width:1.2em;height:1.2em" alt="file"/></td>
