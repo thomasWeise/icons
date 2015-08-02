@@ -68,5 +68,9 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.png" style="width:1.2em;height:1.2em" alt="folder"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.svg" style="width:1.2em;height:1.2em" alt="folder"/></td>
   <td>folder</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.png" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.svg" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
+  <td>folderUp (`cd ..`)</td>
 </tr>
 </table>
