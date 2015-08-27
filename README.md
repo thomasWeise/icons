@@ -73,6 +73,10 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/tex/tex.svg" style="width:1.2em;height:1.2em" alt="tex file"/></td>
   <td>(La)TeX file</td>
 </tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.png" style="width:1.2em;height:1.2em" alt="xml file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.svg" style="width:1.2em;height:1.2em" alt="xml file"/></td>
+  <td>XML file</td>
+</tr><tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.png" style="width:1.2em;height:1.2em" alt="folder"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.svg" style="width:1.2em;height:1.2em" alt="folder"/></td>
   <td>folder</td>
