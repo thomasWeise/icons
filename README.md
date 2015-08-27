@@ -65,8 +65,8 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.svg" style="width:1.2em;height:1.2em" alt="file"/></td>
   <td>file</td>
 </tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/pdf.png" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/pdf.svg" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/pdf/pdf.png" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/pdf/pdf.svg" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
   <td>pdf file</td>
 </tr><tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.png" style="width:1.2em;height:1.2em" alt="folder"/></td>
