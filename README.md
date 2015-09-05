@@ -65,6 +65,18 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.svg" style="width:1.2em;height:1.2em" alt="file"/></td>
   <td>file</td>
 </tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.png" style="width:1.2em;height:1.2em" alt="folder"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.svg" style="width:1.2em;height:1.2em" alt="folder"/></td>
+  <td>folder</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.png" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.svg" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
+  <td>parent folder (<code>cd ..</code>)</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderCur/folderCur.png" style="width:1.2em;height:1.2em" alt="folderCur"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderCur/folderCur.svg" style="width:1.2em;height:1.2em" alt="folderCur"/></td>
+  <td>current folder (<code>cd .</code>)</td>
+</tr><tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/pdf/pdf.png" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/pdf/pdf.svg" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
   <td>pdf file</td>
@@ -77,16 +89,20 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.svg" style="width:1.2em;height:1.2em" alt="xml file"/></td>
   <td>XML file</td>
 </tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.png" style="width:1.2em;height:1.2em" alt="folder"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.svg" style="width:1.2em;height:1.2em" alt="folder"/></td>
-  <td>folder</td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/edi/edi.png" style="width:1.2em;height:1.2em" alt="edi file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/edi/edi.svg" style="width:1.2em;height:1.2em" alt="edi file"/></td>
+  <td>EDI file</td>
 </tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.png" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.svg" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
-  <td>parent folder (<code>cd ..</code>)</td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/ediDimensions/ediDimensions.png" style="width:1.2em;height:1.2em" alt="edi dimensions file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/ediDimensions/ediDimensions.svg" style="width:1.2em;height:1.2em" alt="edi dimensions file"/></td>
+  <td>EDI Dimensions file</td>
 </tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderCur/folderCur.png" style="width:1.2em;height:1.2em" alt="folderCur"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderCur/folderCur.svg" style="width:1.2em;height:1.2em" alt="folderCur"/></td>
-  <td>current folder (<code>cd .</code>)</td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/ediInstances/ediInstances.png" style="width:1.2em;height:1.2em" alt="edi instances file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/ediInstances/ediInstances.svg" style="width:1.2em;height:1.2em" alt="edi instances file"/></td>
+  <td>EDI Instances file</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/ediExperiment/ediExperiment.png" style="width:1.2em;height:1.2em" alt="edi experiment file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/ediExperiment/ediExperiment.svg" style="width:1.2em;height:1.2em" alt="edi experiment file"/></td>
+  <td>EDI Experiment file</td>
 </tr>
 </table>
