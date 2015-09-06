@@ -92,6 +92,14 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xhtml/xhtml.png" style="width:1.2em;height:1.2em" alt="xhtml file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xhtml/xhtml.svg" style="width:1.2em;height:1.2em" alt="xhtml file"/></td>
   <td>XHTML file</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/text/text.png" style="width:1.2em;height:1.2em" alt="text file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/text/text.svg" style="width:1.2em;height:1.2em" alt="text file"/></td>
+  <td>plain text file</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/csv/csv.png" style="width:1.2em;height:1.2em" alt="csv file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/csv/csv.svg" style="width:1.2em;height:1.2em" alt="csv file"/></td>
+  <td>comma-separated values file</td>
 </tr>
 </table>
 
