@@ -116,12 +116,12 @@ and its [gui](https://github.com/optimizationBenchmarking/optimizationBenchmarki
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/ediExperiment/ediExperiment.svg" style="width:1.2em;height:1.2em" alt="edi experiment file"/></td>
   <td>EDI Experiment file</td>
 </tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configurtion/configurtion.png" style="width:1.2em;height:1.2em" alt="configuration file"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configurtion/configurtion.svg" style="width:1.2em;height:1.2em" alt="configuration file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configuration/configuration.png" style="width:1.2em;height:1.2em" alt="configuration file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configuration/configuration.svg" style="width:1.2em;height:1.2em" alt="configuration file"/></td>
   <td>Configuration file</td>
 </tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configurtion/configurtion.png" style="width:1.2em;height:1.2em" alt="evaluation file"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configurtion/configurtion.svg" style="width:1.2em;height:1.2em" alt="evaluation file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/evaluation/evaluation.png" style="width:1.2em;height:1.2em" alt="evaluation file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/evaluation/evaluation.svg" style="width:1.2em;height:1.2em" alt="evaluation file"/></td>
   <td>Evaluation file</td>
 </tr>
 </table>
