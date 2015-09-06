@@ -88,6 +88,10 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.png" style="width:1.2em;height:1.2em" alt="xml file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.svg" style="width:1.2em;height:1.2em" alt="xml file"/></td>
   <td>XML file</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xhtml/xhtml.png" style="width:1.2em;height:1.2em" alt="xhtml file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xhtml/xhtml.svg" style="width:1.2em;height:1.2em" alt="xhtml file"/></td>
+  <td>XHTML file</td>
 </tr>
 </table>
 
@@ -95,7 +99,7 @@ The following icons are used as place holders for files and folders:
 
 The following icons are used as place holders for files based on file types
 specific to the [optimizationBenchmarking](https://github.com/optimizationBenchmarking/optimizationBenchmarking) project
-and its [gui](https://github.com/optimizationBenchmarking/optimizationBenchmarkingGui)
+and its [gui](https://github.com/optimizationBenchmarking/optimizationBenchmarkingGui).
 
 <table>
 <tr><th><code>png</code></th><th><code>svg</code></th><th>what</th></tr>
