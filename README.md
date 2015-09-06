@@ -10,7 +10,7 @@ All icons are `10mm` high and wide, but it should be possible to scale them to s
 
 The following icons are used for showing logging information:
 <table>
-<tr><th>`png`</th><th>`svg`</th><th>what</th></tr>
+<tr><th><code>png</code></th><th><code>svg</code></th><th>what</th></tr>
 <tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logAll/logAll.png" style="width:1.2em;height:1.2em" alt="all"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logAll/logAll.svg" style="width:1.2em;height:1.2em" alt="all"/></td>
@@ -59,7 +59,7 @@ The following icons are used for showing logging information:
 The following icons are used as place holders for files and folders:
 
 <table>
-<tr><th>`png`</th><th>`svg`</th><th>what</th></tr>
+<tr><th><code>png</code></th><th><code>svg</code></th><th>what</th></tr>
 <tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.png" style="width:1.2em;height:1.2em" alt="file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.svg" style="width:1.2em;height:1.2em" alt="file"/></td>
@@ -88,7 +88,18 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.png" style="width:1.2em;height:1.2em" alt="xml file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.svg" style="width:1.2em;height:1.2em" alt="xml file"/></td>
   <td>XML file</td>
-</tr><tr>
+</tr>
+</table>
+
+## [optimizationBenchmarking](https://github.com/optimizationBenchmarking/optimizationBenchmarking)-specific file icons
+
+The following icons are used as place holders for files based on file types
+specific to the [optimizationBenchmarking](https://github.com/optimizationBenchmarking/optimizationBenchmarking) project
+and its [gui](https://github.com/optimizationBenchmarking/optimizationBenchmarkingGui)
+
+<table>
+<tr><th><code>png</code></th><th><code>svg</code></th><th>what</th></tr>
+<tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/edi/edi.png" style="width:1.2em;height:1.2em" alt="edi file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/edi/edi.svg" style="width:1.2em;height:1.2em" alt="edi file"/></td>
   <td>EDI file</td>
@@ -104,5 +115,13 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/ediExperiment/ediExperiment.png" style="width:1.2em;height:1.2em" alt="edi experiment file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/ediExperiment/ediExperiment.svg" style="width:1.2em;height:1.2em" alt="edi experiment file"/></td>
   <td>EDI Experiment file</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configurtion/configurtion.png" style="width:1.2em;height:1.2em" alt="configuration file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configurtion/configurtion.svg" style="width:1.2em;height:1.2em" alt="configuration file"/></td>
+  <td>Configuration file</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configurtion/configurtion.png" style="width:1.2em;height:1.2em" alt="evaluation file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/configurtion/configurtion.svg" style="width:1.2em;height:1.2em" alt="evaluation file"/></td>
+  <td>Evaluation file</td>
 </tr>
 </table>
