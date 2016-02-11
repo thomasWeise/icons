@@ -6,54 +6,6 @@ This work is licensed under the <a rel="license" href="http://creativecommons.or
 
 All icons are `10mm` high and wide, but it should be possible to scale them to smaller units (like `1em`) or larger units. The icons are available as `svg` vector graphics. Since some browser do not support `svg`s (or support them in a very odd way), I also add `png` versions of the icons, which then are `32` pixels high and wide.
 
-## log icons
-
-The following icons are used for showing logging information:
-<table>
-<tr><th><code>png</code></th><th><code>svg</code></th><th>what</th></tr>
-<tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logAll/logAll.png" style="width:1.2em;height:1.2em" alt="all"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logAll/logAll.svg" style="width:1.2em;height:1.2em" alt="all"/></td>
-  <td>all</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFinest/logFinest.png" style="width:1.2em;height:1.2em" alt="finest"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFinest/logFinest.svg" style="width:1.2em;height:1.2em" alt="finest"/></td>
-  <td>finest</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFiner/logFiner.png" style="width:1.2em;height:1.2em" alt="finer"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFiner/logFiner.svg" style="width:1.2em;height:1.2em" alt="finer"/></td>
-  <td>finer</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFine/logFine.png" style="width:1.2em;height:1.2em" alt="fine"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFine/logFine.svg" style="width:1.2em;height:1.2em" alt="fine"/></td>
-  <td>fine</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logConfig/logConfig.png" style="width:1.2em;height:1.2em" alt="config"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logConfig/logConfig.svg" style="width:1.2em;height:1.2em" alt="config"/></td>
-  <td>config</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logInfo/logInfo.png" style="width:1.2em;height:1.2em" alt="info"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logInfo/logInfo.svg" style="width:1.2em;height:1.2em" alt="info"/></td>
-  <td>info</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logSuccess/logSuccess.png" style="width:1.2em;height:1.2em" alt="success"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logSuccess/logSuccess.svg" style="width:1.2em;height:1.2em" alt="success"/></td>
-  <td>success</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logWarning/logWarning.png" style="width:1.2em;height:1.2em" alt="warning"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logWarning/logWarning.svg" style="width:1.2em;height:1.2em" alt="warning"/></td>
-  <td>warning</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFailure/logFailure.png" style="width:1.2em;height:1.2em" alt="failure"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFailure/logFailure.svg" style="width:1.2em;height:1.2em" alt="failure"/></td>
-  <td>failure</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logSevere/logSevere.png" style="width:1.2em;height:1.2em" alt="severe"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logSevere/logSevere.svg" style="width:1.2em;height:1.2em" alt="severe"/></td>
-  <td>severe</td>
-</tr>
-</table>
-
 ## file icons
 
 The following icons are used as place holders for files and folders:
@@ -100,6 +52,59 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/csv/csv.png" style="width:1.2em;height:1.2em" alt="csv file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/csv/csv.svg" style="width:1.2em;height:1.2em" alt="csv file"/></td>
   <td>comma-separated values file</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/zip/zip.png" style="width:1.2em;height:1.2em" alt="zip file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/zip/zip.svg" style="width:1.2em;height:1.2em" alt="zip file"/></td>
+  <td>ZIP archive</td>
+</tr>
+</table>
+
+
+## log icons
+
+The following icons are used for showing logging information:
+<table>
+<tr><th><code>png</code></th><th><code>svg</code></th><th>what</th></tr>
+<tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logAll/logAll.png" style="width:1.2em;height:1.2em" alt="all"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logAll/logAll.svg" style="width:1.2em;height:1.2em" alt="all"/></td>
+  <td>all</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFinest/logFinest.png" style="width:1.2em;height:1.2em" alt="finest"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFinest/logFinest.svg" style="width:1.2em;height:1.2em" alt="finest"/></td>
+  <td>finest</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFiner/logFiner.png" style="width:1.2em;height:1.2em" alt="finer"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFiner/logFiner.svg" style="width:1.2em;height:1.2em" alt="finer"/></td>
+  <td>finer</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFine/logFine.png" style="width:1.2em;height:1.2em" alt="fine"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFine/logFine.svg" style="width:1.2em;height:1.2em" alt="fine"/></td>
+  <td>fine</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logConfig/logConfig.png" style="width:1.2em;height:1.2em" alt="config"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logConfig/logConfig.svg" style="width:1.2em;height:1.2em" alt="config"/></td>
+  <td>config</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logInfo/logInfo.png" style="width:1.2em;height:1.2em" alt="info"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logInfo/logInfo.svg" style="width:1.2em;height:1.2em" alt="info"/></td>
+  <td>info</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logSuccess/logSuccess.png" style="width:1.2em;height:1.2em" alt="success"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logSuccess/logSuccess.svg" style="width:1.2em;height:1.2em" alt="success"/></td>
+  <td>success</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logWarning/logWarning.png" style="width:1.2em;height:1.2em" alt="warning"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logWarning/logWarning.svg" style="width:1.2em;height:1.2em" alt="warning"/></td>
+  <td>warning</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFailure/logFailure.png" style="width:1.2em;height:1.2em" alt="failure"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logFailure/logFailure.svg" style="width:1.2em;height:1.2em" alt="failure"/></td>
+  <td>failure</td>
+</tr><tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logSevere/logSevere.png" style="width:1.2em;height:1.2em" alt="severe"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/log/logSevere/logSevere.svg" style="width:1.2em;height:1.2em" alt="severe"/></td>
+  <td>severe</td>
 </tr>
 </table>
 
