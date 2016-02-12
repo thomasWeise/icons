@@ -13,6 +13,11 @@ The following icons are used as place holders for files and folders:
 <table>
 <tr><th><code>png</code></th><th><code>svg</code></th><th>what</th></tr>
 <tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/csv/csv.png" style="width:1.2em;height:1.2em" alt="csv file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/csv/csv.svg" style="width:1.2em;height:1.2em" alt="csv file"/></td>
+  <td>comma-separated values file</td>
+</tr>
+<tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.png" style="width:1.2em;height:1.2em" alt="file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/file/file.svg" style="width:1.2em;height:1.2em" alt="file"/></td>
   <td>file</td>
@@ -20,15 +25,28 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.png" style="width:1.2em;height:1.2em" alt="folder"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folder/folder.svg" style="width:1.2em;height:1.2em" alt="folder"/></td>
   <td>folder</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.png" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.svg" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
-  <td>parent folder (<code>cd ..</code>)</td>
-</tr><tr>
+</tr>
+<tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderCur/folderCur.png" style="width:1.2em;height:1.2em" alt="folderCur"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderCur/folderCur.svg" style="width:1.2em;height:1.2em" alt="folderCur"/></td>
   <td>current folder (<code>cd .</code>)</td>
-</tr><tr>
+</tr>
+<tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.png" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.svg" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
+  <td>parent folder (<code>cd ..</code>)</td>
+</tr>
+<tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/jar/jar.png" style="width:1.2em;height:1.2em" alt="jar archive"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/jar/jar.svg" style="width:1.2em;height:1.2em" alt="jar archive"/></td>
+  <td>jar archive</td>
+</tr>
+<tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/java/java.png" style="width:1.2em;height:1.2em" alt="java"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/java/java.svg" style="width:1.2em;height:1.2em" alt="java"/></td>
+  <td>java source code file</td>
+</tr>
+<tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/pdf/pdf.png" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/pdf/pdf.svg" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
   <td>pdf file</td>
@@ -36,23 +54,23 @@ The following icons are used as place holders for files and folders:
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/tex/tex.png" style="width:1.2em;height:1.2em" alt="tex file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/tex/tex.svg" style="width:1.2em;height:1.2em" alt="tex file"/></td>
   <td>(La)TeX file</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.png" style="width:1.2em;height:1.2em" alt="xml file"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.svg" style="width:1.2em;height:1.2em" alt="xml file"/></td>
-  <td>XML file</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xhtml/xhtml.png" style="width:1.2em;height:1.2em" alt="xhtml file"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xhtml/xhtml.svg" style="width:1.2em;height:1.2em" alt="xhtml file"/></td>
-  <td>XHTML file</td>
-</tr><tr>
+</tr>
+<tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/text/text.png" style="width:1.2em;height:1.2em" alt="text file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/text/text.svg" style="width:1.2em;height:1.2em" alt="text file"/></td>
   <td>plain text file</td>
-</tr><tr>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/csv/csv.png" style="width:1.2em;height:1.2em" alt="csv file"/></td>
-  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/csv/csv.svg" style="width:1.2em;height:1.2em" alt="csv file"/></td>
-  <td>comma-separated values file</td>
-</tr><tr>
+</tr>
+<tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xhtml/xhtml.png" style="width:1.2em;height:1.2em" alt="xhtml file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xhtml/xhtml.svg" style="width:1.2em;height:1.2em" alt="xhtml file"/></td>
+  <td>XHTML file</td>
+</tr>
+<tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.png" style="width:1.2em;height:1.2em" alt="xml file"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/xml/xml.svg" style="width:1.2em;height:1.2em" alt="xml file"/></td>
+  <td>XML file</td>
+</tr>
+<tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/zip/zip.png" style="width:1.2em;height:1.2em" alt="zip file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/zip/zip.svg" style="width:1.2em;height:1.2em" alt="zip file"/></td>
   <td>ZIP archive</td>
