@@ -47,10 +47,21 @@ The following icons are used as place holders for files and folders:
   <td>java source code file</td>
 </tr>
 <tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/jpg/jpg.png" style="width:1.2em;height:1.2em" alt="jpg image"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/jpg/jpg.svg" style="width:1.2em;height:1.2em" alt="jpg image"/></td>
+  <td>jpg image</td>
+</tr>
+<tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/pdf/pdf.png" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/pdf/pdf.svg" style="width:1.2em;height:1.2em" alt="pdf file"/></td>
   <td>pdf file</td>
-</tr><tr>
+</tr>
+<tr>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/png/png.png" style="width:1.2em;height:1.2em" alt="png image"/></td>
+  <td><img src="https://rawgit.com/thomasWeise/icons/master/files/png/png.svg" style="width:1.2em;height:1.2em" alt="png image"/></td>
+  <td>png image</td>
+</tr>
+<tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/tex/tex.png" style="width:1.2em;height:1.2em" alt="tex file"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/tex/tex.svg" style="width:1.2em;height:1.2em" alt="tex file"/></td>
   <td>(La)TeX file</td>
