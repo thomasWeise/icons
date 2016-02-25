@@ -29,12 +29,12 @@ The following icons are used as place holders for files and folders:
 <tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderCur/folderCur.png" style="width:1.2em;height:1.2em" alt="folderCur"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderCur/folderCur.svg" style="width:1.2em;height:1.2em" alt="folderCur"/></td>
-  <td>current folder (<code>cd .</code>)</td>
+  <td>folder [current] (<code>cd .</code>)</td>
 </tr>
 <tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.png" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/folderUp/folderUp.svg" style="width:1.2em;height:1.2em" alt="folderUp"/></td>
-  <td>parent folder (<code>cd ..</code>)</td>
+  <td>folder [parent] (<code>cd ..</code>)</td>
 </tr>
 <tr>
   <td><img src="https://rawgit.com/thomasWeise/icons/master/files/jar/jar.png" style="width:1.2em;height:1.2em" alt="jar archive"/></td>
